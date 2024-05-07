@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "locale": "c",
+        "atomic": "c",
+        "sstream": "c",
+        "*.inc": "c",
+        "string.h": "c",
+        "inet.h": "c",
+        "stdio.h": "c",
+        "istream": "c",
+        "*.tcc": "c",
+        "fcntl.h": "c",
+        "stdlib.h": "c"
+    }
+}
